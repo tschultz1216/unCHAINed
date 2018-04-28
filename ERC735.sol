@@ -3,7 +3,7 @@ pragma solidity ^0.4.23;
 import "./ERC165.sol";
 
 /// @title ERC735
-/// @author Mircea Pasoi
+/// @author Todd Schultz - Extension of implementation of: Mircea Pasoi
 /// @notice Abstract contract for ERC735
 contract ERC735 is ERC165 {
     /// @dev ID for ERC165 pseudo-introspection
